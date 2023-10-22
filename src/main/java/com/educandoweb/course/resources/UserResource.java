@@ -17,3 +17,6 @@ public class UserResource {
 		return ResponseEntity.ok().body(u);
 	}
 }
+
+//Link do BD H2:
+//http://localhost:8080/h2-console/login.jsp?jsessionid=17fae9d0fe78a7ff3262ac42016923b6
